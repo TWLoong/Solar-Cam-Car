@@ -24,7 +24,8 @@
 ## 待优化
 凸轮到转向轮部分的传动链过于复杂，3D打印精度不高，间隙明显，是主要误差来源，可根据需求进行结构优化
 
-<img width="668" height="608" alt="1" src="https://github.com/user-attachments/assets/6d0f34b7-c9bd-4f65-af00-d1bfdfb34fef" />
+<img width="842" height="724" alt="1" src="https://github.com/user-attachments/assets/03e084bb-67f3-4d07-8d25-531a8c86c050" />
+
 
 
 
