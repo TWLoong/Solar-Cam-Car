@@ -25,7 +25,7 @@
 ## 注意
 1.若需要增加新的轨迹坐标点，需要使用Matlab重新设计凸轮轨迹，导出凸轮轮廓数据后在SolidWorks重新生成凸轮，大致操作流程如下：
 
-    1.1 如下图，找到Matlab的主文件夹，把凸轮设计插件的文件夹复制到里面
+  1.1 如下图，找到Matlab的主文件夹，把凸轮设计插件的文件夹复制到里面
     
 <img width="851" height="58" alt="Matlab文件夹" src="https://github.com/user-attachments/assets/4ea32eef-edd6-47ad-a7ef-bb08e700b036" />
 
