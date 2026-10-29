@@ -29,7 +29,7 @@
     
 <img width="851" height="58" alt="Matlab文件夹" src="https://github.com/user-attachments/assets/4ea32eef-edd6-47ad-a7ef-bb08e700b036" />
 
-------1.2 进入到设计程序里面后，在左上角（划红线的位置）输入国赛初赛，然后点击导入，再进行ai设计（下图里面就是该小车的各个参数配置，要正确配置后才能训练出正确的凸轮）
+------1.2 双击运行"凸轮设计.exe"文件，进入到设计程序里面后，在左上角（划红线的位置）输入国赛初赛，然后点击导入，再进行ai设计（下图里面就是该小车的各个参数配置，要正确配置后才能训练出正确的凸轮）
     
 <img width="1920" height="1018" alt="参数" src="https://github.com/user-attachments/assets/b435768a-706d-457f-a46b-63441446734f" />
 
